@@ -1,0 +1,20 @@
+h2 {
+	margin: 30px 0px 30px 0px;
+}
+
+.dropdown {
+	margin-bottom: 20px;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.card {
+	margin: 20px;
+}
+
+.card h6 {
+	color: green;
+}
