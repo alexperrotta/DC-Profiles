@@ -18,3 +18,7 @@ h2 {
 .card h6 {
 	color: green;
 }
+
+.card a {
+	margin: 3px;
+}
