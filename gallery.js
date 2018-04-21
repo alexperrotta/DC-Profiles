@@ -1,6 +1,6 @@
 $(function(){
 
-	$.get('http://s3.amazonaws.com/dc-profiles/Students.json', function(response){
+	$.get('https://s3.amazonaws.com/dc-profiles/Students.json', function(response){
 		var finalCard = renderGallery(response);
 		$('.container').html(finalCard);
 
