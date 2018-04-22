@@ -15,6 +15,10 @@ h2 {
 	margin: 20px;
 }
 
+.card img {
+	padding: 20px;
+}
+
 .card h6 {
 	color: green;
 }
